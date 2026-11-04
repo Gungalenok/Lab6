@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Запуск приложения Больница",
+    "Projects": [
+      {
+        "Path": "Hospital.WinForms\\Hospital.WinForms.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
